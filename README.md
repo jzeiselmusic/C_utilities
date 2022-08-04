@@ -4,7 +4,7 @@ helpful utilities written in C
 
 countfiles.c : 
 
-// this function will count the number of files in the provided folder path.
+	// this function will count the number of files in the provided folder path.
 
 	// will count folders as files 
 	// ignores hidden files
@@ -18,6 +18,6 @@ countfiles.c :
   
   listfiles.c :
   
-  // this function essentially performs ls
-  // list all files and hidden files in current working directory
+  	// this function essentially performs ls
+  	// list all files and hidden files in current working directory
 
